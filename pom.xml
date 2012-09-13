@@ -114,22 +114,5 @@
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
-
-
-	<distributionManagement>
-		<snapshotRepository>
-			<id>trylogic</id>
-			<name>Trylogic</name>
-			<url>http://repo.trylogic.ru/content/repositories/public/</url>
-			<layout>default</layout>
-		</snapshotRepository>
-
-		<repository>
-			<id>trylogic-releases</id>
-			<name>Trylogic releases</name>
-			<url>http://repo.trylogic.ru/content/repositories/releases/</url>
-			<layout>default</layout>
-		</repository>
-	</distributionManagement>
 </project>
 
